@@ -1,0 +1,355 @@
+id,name,type,sex,ranking_money,ranking_critics,year,director,producer,screenplay,cast1,cast2,cast3,composer,production_company1,production_company2,production_company3,production_company4,distribution_company,box_office,oscar,golden_globe,genre,country
+20pc,20th Centuries Studios,production_company,d,,,1935,,,,,,,,,,,,,,,,,US
+a2dc,A24,distribution_company,d,,,2012,,,,,,,,,,,,,,,,,US
+a2pc,A24,production_company,d,,,2012,,,,,,,,,,,,,,,,,US
+aba,Asa Butterfield,actor,m,,,1997,,,,,,,,,,,,,,,,,EU
+acd,Alfonso Cuaron,director,m,,,1961,,,,,,,,,,,,,,2,2,,SA
+acp,Alfonso Cuaron,producer,m,,,1961,,,,,,,,,,,,,,2,2,,SA
+acs,Alfonso Cuaron,screenplay,m,,,1961,,,,,,,,,,,,,,2,2,,SA
+ada,Adam Driver,actor,m,,,1983,,,,,,,,,,,,,,0,0,,US
+adc,Alexandre Desplat,composer,m,,,1961,,,,,,,,,,,,,,2,2,,EU
+aea,Aaron Eckhart,actor,m,,,1968,,,,,,,,,,,,,,0,0,,US
+aepc,Amblin Entertainment,production_company,d,,,1981,,,,,,,,,,,,,,,,,US
+aha,Alex R. Hibbert,actor,m,,,2004,,,,,,,,,,,,,,0,0,,US
+aha2,Armie Hammer,actor,m,,,1986,,,,,,,,,,,,,,0,0,,US
+ahpc,Ad Hominem Enterprises,production_company,d,,,,,,,,,,,,,,,,,,,,
+ald,Ang Lee,director,m,,,1954,,,,,,,,,,,,,,2,2,,A
+ama,Anthony Mackie,actor,m,,,1978,,,,,,,,,,,,,,0,0,,US
+amc,Alan Menken,composer,m,,,1949,,,,,,,,,,,,,,8,4,,US
+apa,Amy Poehler,actor,f,,,1971,,,,,,,,,,,,,,0,1,,US
+apd,Alexander Payne,director,m,,,1961,,,,,,,,,,,,,,2,2,,US
+aps,Alexander Payne,screenplay,m,,,1961,,,,,,,,,,,,,,2,2,,US
+arp,Adele Romanski,producer,f,,,1982,,,,,,,,,,,,,,1,0,,US
+arpc,Arte,production_company,d,,,1991,,,,,,,,,,,,,,,,,EU
+asa,Ashton Sanders,actor,m,,,1995,,,,,,,,,,,,,,0,0,,US
+asc,Alan Silvestri,composer,m,,,1950,,,,,,,,,,,,,,0,0,,US
+ass,Aaron Sorkin,screenplay,m,,,1961,,,,,,,,,,,,,,1,3,,US
+avatar,Avatar - Aufbruch nach Pandora,movie,d,1,,2009,jcd,jcp,jcs,swa,zsa,swa1,jhc,20pc,lepc,depc,impc,wddc,"2,905",3,2,science-fiction,US
+avengers,Avengers 1: The Avengers,movie,d,7,,2012,jwd,jwp,zps,rda,jra,sja,asc,mspc,,,,wddc,"1,519",0,0,action,US
+avengers2,The Avengers : Age of Ultron,movie,d,11,,2015,jwd,kfp,jws,rda,cea,mra2,dec,mspc,wdpc,,,wddc,"1,4",0,0,action,US
+avengers3,Avengers: Infinity War,movie,d,4,,2018,jrd,kfp,jks,rda,sja,jra,asc,mspc,wdpc,,,wddc,"2,048",0,0,science-fiction,US
+avengers4,Avengers 4: Endgame,movie,d,2,,2019,jrd,slp,cms,rda,sja,jra,asc,wdpc,mspc,,,wddc,"2,798",0,0,action,EU
+aga,Andrew Garfield,actor,m,,,1983,,,,,,,,,,,,,,0,1,,US
+bba,Beau Bridges,actor,m,,,1941,,,,,,,,,,,,,,,2,,US
+bbd,Brad Bird,director,m,,,1957,,,,,,,,,,,,,,2,0,,US
+bbs,Brad Bird,screenplay,m,,,1957,,,,,,,,,,,,,,0,0,,US
+bcd,Bill Condon,director,m,,,1955,,,,,,,,,,,,,,1,0,,US
+beauty,Beauty and the beast,movie,d,17,,2017,bcd,dhp,scs,ewa,dsa,lea1,amc,wdpc,,,,wddc,"1,274",2,3,adventure,US
+bfpc,Bedford Falls Productions,production_company,d,,,1985,,,,,,,,,,,,,,,,,US
+bga,Brad Garrett,actor,m,,,1960,,,,,,,,,,,,,,0,0,,US
+bha,Bryce Dallas Howard,actor,f,,,1981,,,,,,,,,,,,,,0,0,,US
+bha1,Bill Hader,actor,m,,,1978,,,,,,,,,,,,,,0,0,,US
+bjd,Barry Jenkins,director,m,,,1979,,,,,,,,,,,,,,1,0,,US
+bjs,Barry Jenkins,screenplay,m,,,1979,,,,,,,,,,,,,,1,0,,US
+bka,Ben Kingsley,actor,m,,,1943,,,,,,,,,,,,,,1,2,,EU
+blp,Bradford Lewis,producer,m,,,1958,,,,,,,,,,,,,,0,0,,US
+bpa,Brad Pitt,actor,m,,,1963,,,,,,,,,,,,,,2,2,,US
+brokeback,Brokeback Mountain,movie,d,,16,2005,ald,dop,lms,hla,jga,lca,gsc,rrpc,,,,ffdc,"0,178",3,4,drama,US
+brpc,Bad Robot,production_company,d,,,1999,,,,,,,,,,,,,,,,,US
+brpc1,Bayerischer Rundfunk,production_company,d,,,1949,,,,,,,,,,,,,,,,,EU
+bta,Benicio Del Toro,actor,m,,,1967,,,,,,,,,,,,,,1,1,,US
+btc,Brian Tyler,composer,m,,,1972,,,,,,,,,,,,,,0,0,,US
+bvdc,Buena Vista Pictures,distribution_company,d,,,1954,,,,,,,,,,,,,,,,,US
+cac,Craig Armstrong,composer,m,,,1959,,,,,,,,,,,,,,,1,,EU
+cba,Chadwick Boseman,actor,m,,,1976,,,,,,,,,,,,,,,1,,US
+cba1,Christian Bale,actor,m,,,1974,,,,,,,,,,,,,,1,2,,EU
+cbc,Christophe Beck,composer,m,,,1972,,,,,,,,,,,,,,0,0,,EU
+cbc1,Carter Burwell,composer,m,,,1954,,,,,,,,,,,,,,2,0,,US
+cbd,Chris Buck,director,m,,,1958,,,,,,,,,,,,,,1,0,,US
+cda,Daniel Craig,actor,m,,,1968,,,,,,,,,,,,,,0,0,,EU
+cea,Chris Evans,actor,m,,,1981,,,,,,,,,,,,,,0,0,,US
+cea1,Chiwetel Ejiofor,actor,m,,,1977,,,,,,,,,,,,,,0,0,,EU
+cfa,Carrie Fisher,actor,f,,,1956,,,,,,,,,,,,,,,,,US
+cfdc,Concorde Filmverleih GmbH,distribution_company,d,,,1980,,,,,,,,,,,,,,,,,EU
+cfpc,Creado Film,production_company,d,,,,,,,,,,,,,,,,,,,,EU
+cha,Cierán Hinds,actor,m,,,1953,,,,,,,,,,,,,,0,0,,EU
+cmc,Cliff Martinez,composer,m,,,1954,,,,,,,,,,,,,,0,0,,US
+cmc1,Clint Mansell,composer,m,,,1963,,,,,,,,,,,,,,,,,EU
+cms,Christopher Markus,screenplay,m,,,1970,,,,,,,,,,,,,,0,0,,US
+cms2,Chris Morgan,screenplay,m,,,1970,,,,,,,,,,,,,,0,0,,US
+cna,Craig T. Nelson,actor,m,,,1944,,,,,,,,,,,,,,0,0,,US
+cnd,Christopher Nolan,director,m,,,1970,,,,,,,,,,,,,,0,0,,EU
+cnp,Christopher Nolan,producer,m,,,1970,,,,,,,,,,,,,,0,0,,EU
+copc,coop99,production_company,d,,,1999,,,,,,,,,,,,,,,,,AT
+country,No Country for Old Men,movie,d,,20,2007,jcd1,srp,jcs1,tja,jba2,jba1,cbc1,mfpc1,srpc,pcpc,,ugdc,"0,171",4,2,thriller,US
+cpa,Chris Pratt,actor,m,,,1979,,,,,,,,,,,,,,,,,US
+cppc,Columbia Pictures,production_company,d,,,1919,,,,,,,,,,,,,,,,,US
+ctd,Colin Trevorrow,director,m,,,1976,,,,,,,,,,,,,,0,0,,US
+cts,Colin Trevorrow,screenplay,m,,,1976,,,,,,,,,,,,,,0,0,,US
+dad,Darren Aronofsky,director,m,,,1969,,,,,,,,,,,,,,,,,US
+dap,Darren Aronofsky,producer,m,,,1969,,,,,,,,,,,,,,,,,US
+dark,The Dark Knight,movie,d,,10,2008,cnd,cnp,jns1,cba1,hla,aea,jnc,dcpc,wbpc,dcpc1,lppc,wbdc,"1,01",2,1,action,US
+dbp,Dana Brunetti,producer,m,,,1973,,,,,,,,,,,,,,0,0,,US
+dca,Don Cheadle,actor,m,,,1964,,,,,,,,,,,,,,,2,,US
+dcpc,DC Comics,production_company,d,,,1934,,,,,,,,,,,,,,,,,US
+dcpc1,DC Films,production_company,d,,,2016,,,,,,,,,,,,,,,,,US
+dcs,Derek Connolly,screenplay,m,,,1976,,,,,,,,,,,,,,,,,US
+dec,Danny Elfman,composer,m,,,1953,,,,,,,,,,,,,,0,0,,US
+depc,Dune Entertainment,production_company,d,,,2006,,,,,,,,,,,,,,,,,US
+descendants,The Descendants,movie,d,,15,2011,apd,jbp1,aps,gca,swa2,bba,cac,ahpc,,,,fsdc,"0,177",1,1,drama,US
+dfd,David Fincher,director,m,,,1962,,,,,,,,,,,,,,3,1,,US
+dga,Donald Glover,actor,m,,,1983,,,,,,,,,,,,,,0,0,,US
+dhp,David Hoberman,producer,m,,,1953,,,,,,,,,,,,,,0,0,,US
+dhp1,David Heyman,producer,m,,,1961,,,,,,,,,,,,,,,,,EU
+dja,Dwayne Johnson,actor,m,,,1972,,,,,,,,,,,,,,0,0,,US
+dmpc,DCM Filmdistribution,production_company,d,,,1996,,,,,,,,,,,,,,,,,EU
+dop,Diana Ossana,producer,f,,,1949,,,,,,,,,,,,,,1,1,,US
+dppc,Dreamworks Pictures,production_company,d,,,1994,,,,,,,,,,,,,,,,,US
+dps,Drew Pearce,screenplay,m,,,1975,,,,,,,,,,,,,,0,0,,EU
+dra,Daisy Ridley,actor,f,,,1992,,,,,,,,,,,,,,0,0,,US
+dra1,Daniel Radcliffe,actor,m,,,1989,,,,,,,,,,,,,,,,,EU
+dsa,Dan Stevens,actor,m,,,1982,,,,,,,,,,,,,,0,0,,EU
+dyd,David Yates,director,m,,,1963,,,,,,,,,,,,,,,,,EU
+eba,Eric Bana,actor,m,,,1968,,,,,,,,,,,,,,0,0,,AU
+ecp,Ethan Coen,producer,f,,,1957,,,,,,,,,,,,,,4,1,,US
+efpc,Esperanto Filmoj,production_company,d,,,2004,,,,,,,,,,,,,,,,,SA
+eha,Ed Harris,actor,m,,,1950,,,,,,,,,,,,,,0,2,,US
+ela,Evangeline Lilly,actor,f,,,1979,,,,,,,,,,,,,,0,0,,CA
+ewa,Emma Watson,actor,f,,,1990,,,,,,,,,,,,,,,,,EU
+ewa1,Evan Rachel Wood,actor,f,,,1987,,,,,,,,,,,,,,,,,US
+fate,The Fate of the Furious,movie,d,19,,2017,fgd,vdp,gts,vda,jsa,dja,btc,uppc,,,,updc,"1,236",0,0,action,US
+fepc,Fairview Entertainment,production_company,d,,,1996,,,,,,,,,,,,,,,,,US
+ffdc,Focus Features,distribution_company,d,,,2002,,,,,,,,,,,,,,,,,US
+ffpc,Frenesy Film Company,production_company,d,,,2012,,,,,,,,,,,,,,,,,EU
+fgd,F. Gary Gray,director,m,,,1969,,,,,,,,,,,,,,0,0,,US
+fhd,Florian Henckel von Donnersmarck,director,m,,,1973,,,,,,,,,,,,,,1,1,,EU
+fhs,Florian Henckel von Donnersmarck,screenplay,m,,,1973,,,,,,,,,,,,,,1,1,,EU
+flpc,First Light Production,production_company,d,,,2001,,,,,,,,,,,,,,,,,US
+fma,Fred Melamed,actor,f,,,1956,,,,,,,,,,,,,,0,0,,US
+fmp,Frank Marshall,producer,m,,,1946,,,,,,,,,,,,,,,,,US
+frozen,Frozen,movie,d,16,,2013,cbd,pdp,jls,kba,ima,jga1,cbc,wdpc,,,,wddc,"1,282",2,1,adventure,US
+frozen2,Frozen II,movie,d,10,,2019,cbd,pdp,jls,kba,ima,jga2,cbc,wdpc,wdpc,,,wddc,"1,45",0,1,musical,US
+fsdc,Fox Searchlight Pictures,distribution_company,d,,,1994,,,,,,,,,,,,,,,,,US
+furious,Furious 7,movie,d,8,,2015,jwd2,vdp,cms2,vda,pwa,dja,btc,orpc,ofpc,mrpc,,updc,"1,52",0,0,action,US
+gca,George Clooney,actor,m,,,1961,,,,,,,,,,,,,,2,4,,US
+gjs,George Jonas,screenplay,m,,,1935,,,,,,,,,,,,,,0,0,,EU
+gkp,Graham King,producer,m,,,1961,,,,,,,,,,,,,,1,,,EU
+gkpc,GK Films,production_company,d,,,2007,,,,,,,,,,,,,,,,,US
+gls,George Lucas,screenplay,m,,,1944,,,,,,,,,,,,,,0,0,,US
+gpa,Gwyneth Paltrow,actor,f,,,1972,,,,,,,,,,,,,,1,1,,US
+gppc,Grosvenor Park Media,production_company,d,,,1999,,,,,,,,,,,,,,,,,US
+gravity,Gravity,movie,d,,12,2013,acd,acp,acs,sba,gca,eha,spc,wbpc,efpc,hfpc,,wbdc,"0,723",7,4,science-fiction,US
+gsc,Gustavo Santaolalla,composer,d,,,1951,,,,,,,,,,,,,,2,1,,SA
+gts,Gary Scott Thompson,screenplay,m,,,1959,,,,,,,,,,,,,,0,0,,US
+gun,Top Gun: Maverick,movie,d,9,,2022,jkd,jbp,jcs2,tca2,jca2,mta,lbc,pppc,smpc,tppc,jbpc,ppdc,"1,46",0,0,action,US
+gyc,Gabriel Yared,composer,m,,,1949,,,,,,,,,,,,,,1,1,,EU
+hfpc,Heyday Films,production_company,d,,,1996,,,,,,,,,,,,,,,,,EU
+hha,Holly Hunter,actor,f,,,1958,,,,,,,,,,,,,,1,1,,US
+hla,Heath Ledger,actor,m,,,1979,,,,,,,,,,,,,,1,1,,AU
+hsc,Howard Shore,composer,m,,,1946,,,,,,,,,,,,,,3,3,,CA
+hugo,Hugo Cabret,movie,d,,14,2011,msd,gkp,jls1,bka,sca1,aba,hsc,gkpc,inpc,,,ppdc,"0,185",5,,drama,US
+hzc,Hans Zimmer,composer,m,,,1957,,,,,,,,,,,,,,2,3,,EU
+iepc,Initial Entertainment Group,production_company,d,,,1990,,,,,,,,,,,,,,,,,US
+ima,Idina Menzel,actor,f,,,1971,,,,,,,,,,,,,,0,0,,US
+impc,Ingenious Media,production_company,d,,,1998,,,,,,,,,,,,,,,,,EU
+incredibles,Incredibles 2,movie,d,18,,2018,bbd,ngp,bbs,cna,hha,sva,mgc,ppc,,,,wddc,"1,243",0,0,action,US
+inpc,Infinitum Nihil,production_company,d,,,2004,,,,,,,,,,,,,,,,,US
+iron,Iron Man 3,movie,d,20,,2013,sbd,kfp,dps,rda,gpa,dca,btc,mspc,,,,wddc,"1,214",0,0,action,US
+jad,J.J. Abrams,director,m,,,1978,,,,,,,,,,,,,,,,,US
+jap,J.J. Abrams,producer,m,,,1978,,,,,,,,,,,,,,,,,US
+jba,John Boyega,actor,m,,,1992,,,,,,,,,,,,,,0,1,,US
+jba1,Josh Brolin,actor,m,,,1968,,,,,,,,,,,,,,1,0,,US
+jba2,Javier Bardem,actor,m,,,1969,,,,,,,,,,,,,,1,1,,EU
+jbd,J. A. Bayona,director,m,,,1975,,,,,,,,,,,,,,,,,EU
+jbp,Jerry Bruckheimer,producer,m,,,1943,,,,,,,,,,,,,,0,2,,US
+jbp1,Jim Burke,producer,m,,,1957,,,,,,,,,,,,,,1,,,US
+jbpc,Jerry Bruckheimer Films,production_company,d,,,1995,,,,,,,,,,,,,,,,,US
+jca,Jessica Chastain,actor,f,,,1977,,,,,,,,,,,,,,1,1,,US
+jca2,Jennifer Connelly,actor,f,,,1970,,,,,,,,,,,,,,1,1,,US
+jcd,James Cameron,director,m,,,1954,,,,,,,,,,,,,,3,3,,CA
+jcd1,Joel Coen,director,f,,,1954,,,,,,,,,,,,,,4,1,,US
+jcp,James Cameron,producer,m,,,1954,,,,,,,,,,,,,,3,3,,CA
+jcs,James Cameron,screenplay,m,,,1954,,,,,,,,,,,,,,3,3,,CA
+jcs1,Joel Coen,screenplay,m,,,1954,,,,,,,,,,,,,,4,1,,US
+jcs2,Jim Cash,screenplay,m,,,1947,,,,,,,,,,,,,,0,0,,US
+jea,Jesse Eisenberg,actor,m,,,1983,,,,,,,,,,,,,,0,0,,US
+jedi,Star Wars: The Last Jedi,movie,d,14,,2017,rjd,kkp,rjs,mha,cfa,ada,jwc,lfpc,,,,wddc,"1,333",,,action,US
+jfd,Jon Favreau,director,m,,,1966,,,,,,,,,,,,,,0,0,,US
+jfp,Jon Favreau,producer,m,,,1966,,,,,,,,,,,,,,0,0,,US
+jga,Jake Gyllenhaal,actor,m,,,1980,,,,,,,,,,,,,,,,,US
+jga1,Jonathan Groff,actor,m,,,1985,,,,,,,,,,,,,,0,0,,US
+jga2,Josh Gad,actor,m,,,1981,,,,,,,,,,,,,,0,0,,US
+jgc,Jacob Groth,composer,m,,,1951,,,,,,,,,,,,,,0,0,,EU
+jhc,James Horner,composer,m,,,1953,,,,,,,,,,,,,,2,2,,US
+jis,James Ivory,screenplay,m,,,1928,,,,,,,,,,,,,,1,0,,US
+jkd,Joseph Kosinski,director,m,,,1974,,,,,,,,,,,,,,0,0,,US
+jks,Jack Kirby,screenplay,m,,,1917,,,,,,,,,,,,,,,,,US
+jls,Jennifer Lee,screenplay,f,,,1971,,,,,,,,,,,,,,0,0,,US
+jls1,John Logan,screenplay,m,,,1961,,,,,,,,,,,,,,,,,US
+jnc,James Newton Howard,composer,m,,,1951,,,,,,,,,,,,,,0,0,,US
+jns,Jeff Nathanson,screenplay,m,,,1965,,,,,,,,,,,,,,0,0,,US
+jns1,Jonathan Nolan,screenplay,m,,,1976,,,,,,,,,,,,,,0,0,,EU
+jra,Jeremy Renner,actor,m,,,1971,,,,,,,,,,,,,,0,0,,US
+jrd,Joe Russo,director,m,,,1971,,,,,,,,,,,,,,0,0,,US
+jrp,Jonas Rivera,producer,m,,,1971,,,,,,,,,,,,,,2,0,,US
+jsa,Jason Statham,actor,m,,,1967,,,,,,,,,,,,,,0,0,,EU
+jta,Justin Timberlake,actor,m,,,1981,,,,,,,,,,,,,,0,0,,US
+jurassic,Jurassic World,movie,d,5,,2015,ctd,fmp,cts,cpa,bha,voa,mgc,aepc,lppc,kmpc,,updc,"1,672",0,0,action,US
+jwc,John Williams,composer,m,,,1932,,,,,,,,,,,,,,5,4,,US
+jwd,Joss Whedon,director,m,,,1964,,,,,,,,,,,,,,0,0,,US
+jwd2,James Wan,director,m,,,1977,,,,,,,,,,,,,,0,0,,A
+jwp,Joss Whedon,producer,m,,,1964,,,,,,,,,,,,,,0,0,,US
+jws,Joss Whedon,screenplay,m,,,1964,,,,,,,,,,,,,,0,0,,US
+kba,Kristen Bell,actor,f,,,1980,,,,,,,,,,,,,,0,0,,US
+kbd,Kathryn Bigelow,director,f,,,1951,,,,,,,,,,,,,,2,0,,US
+kbp,Kathryn Bigelow,producer,f,,,1951,,,,,,,,,,,,,,2,0,,US
+kfp,Kevin Feige,producer,m,,,1973,,,,,,,,,,,,,,,,,US
+kfpc,Kingsgate Films,production_company,d,,,1974,,,,,,,,,,,,,,,,,US
+kfpc1,Komplizen Film,production_company,d,,,1999,,,,,,,,,,,,,,,,,EU
+khpc,KNM Home Entertainment,production_company,d,,,2007,,,,,,,,,,,,,,,,,EU
+kingdom,Jurassic World: Fallen Kingdom,movie,d,15,,2018,jbd,fmp,dcs,cpa,bha,rsa,mgc,aepc,lepc1,pwpc,tmpc,updc,"1,31",,,action,US
+kkp,Kathleen Kennedy,producer,f,,,1953,,,,,,,,,,,,,,,,,US
+kmpc,The Kennedy/Marshall Company,production_company,d,,,1991,,,,,,,,,,,,,,,,,US
+kommando,Tödliches Kommando: The Hurt Locker,movie,d,,5,2008,kbd,kbp,mbs,jra,ama,ela,mbc,kfpc,flpc,vppc,gppc,sedc,"0,492",6,0,thriller,US
+kopf,Alles steht Kopf,movie,d,,11,2015,pdd,jrp,pds,apa,bha1,lba,mgc,ppc,wdpc,,,wddc,"0,858",1,2,comedy,US
+lba,Lewis Black,actor,m,,,1948,,,,,,,,,,,,,,0,0,,US
+lbc,Lorne Balfe,composer,m,,,1976,,,,,,,,,,,,,,0,0,,EU
+lbp,Laura Bickford,producer,f,,,1968,,,,,,,,,,,,,,,,,US
+lbpc,Laura Bickford Productions,production_company,d,,,,,,,,,,,,,,,,,,,,US
+lca,Linda Cardellini,actor,f,,,1975,,,,,,,,,,,,,,,,,US
+lcpc,La Cinéfacture,production_company,d,,,,,,,,,,,,,,,,,,,,EU
+lea,Lena Endre,actor,f,,,1955,,,,,,,,,,,,,,0,0,,EU
+lea1,Luke Evans,actor,m,,,1979,,,,,,,,,,,,,,0,0,,EU
+leben,Das Leben der Anderen,movie,d,,7,2006,fhd,mwp,fhs,uma,ska,mga,gyc,wbpc2,brpc,arpc,cfpc,wddc,"0,773",1,1,drama,EU
+lepc,Lightstorm Entertainment,production_company,d,,,1990,,,,,,,,,,,,,,,,,US
+lepc1,Legendary Entertainment,production_company,d,,,2000,,,,,,,,,,,,,,,,,US
+lfpc,Lucasfilm Ltd.,production_company,d,,,1971,,,,,,,,,,,,,,,,,US
+lgc,Ludwig Göransson,composer,m,,,1984,,,,,,,,,,,,,,1,,,EU
+lgd,Luca Guadagnino,director,m,,,1971,,,,,,,,,,,,,,0,0,,EU
+lion,The Lion King,movie,d,6,,2019,jfd,jfp,jns,dga,sra,cea1,hzc,wdpc,fepc,,,wddc,"1,663",0,0,musical,US
+lms,Larry McMurtry,screenplay,m,,,1936,,,,,,,,,,,,,,1,1,,US
+lna,Lupita Nyong'o,actor,f,,,1983,,,,,,,,,,,,,,1,,,SA
+lppc,Legendary Pictures,production_company,d,,,2000,,,,,,,,,,,,,,,,,US
+lra,Lou Romano,actor,m,,,1972,,,,,,,,,,,,,,0,0,,US
+mad,Maren Ade,director,f,,,1976,,,,,,,,,,,,,,1,0,,EU
+man,A serious man,movie,d,,6,2009,jcd1,ecp,jcs1,msa,rka,fma,cbc1,scpc,rmpc,wtpc,mzpc,ffdc,"0,314",0,0,comedy-drama,EU
+map,Maren Ade,producer,f,,,1976,,,,,,,,,,,,,,1,0,,EU
+mas,Maren Ade,screenplay,f,,,1976,,,,,,,,,,,,,,1,0,,EU
+mbc,Marco Beltrami,composer,m,,,1966,,,,,,,,,,,,,,0,0,,US
+mbs,Mark Boal,screenplay,m,,,1973,,,,,,,,,,,,,,2,0,,US
+mda,Michael Douglas,actor,m,,,1944,,,,,,,,,,,,,,2,5,,US
+mfpc,Missing Link Films,production_company,d,,,2014,,,,,,,,,,,,,,,,,EU
+mfpc1,Miramax Films,production_company,d,,,1979,,,,,,,,,,,,,,,,,US
+mga,Martina Gedeck,actor,f,,,1961,,,,,,,,,,,,,,0,0,,EU
+mgc,Michael Giacchino,composer,m,,,1967,,,,,,,,,,,,,,1,1,,US
+mha,Mark Hamill,actor,m,,,1951,,,,,,,,,,,,,,,,,US
+mja,Michael B. Jordan,actor,m,,,1987,,,,,,,,,,,,,,,,,US
+mna,Michael Nyqvist,actor,m,,,1960,,,,,,,,,,,,,,0,0,,EU
+moon,moonlight,movie,d,,2,2016,bjd,arp,bjs,aha,asa,tra,nbc,a2pc,dmpc,,,a2dc,"0,653",3,1,drama,EU
+mra,Mickey Rourke,actor,m,,,1952,,,,,,,,,,,,,,,1,,US
+mra2,Mark Ruffalo,actor,m,,,1967,,,,,,,,,,,,,,0,1,,US
+mrpc,MRC,production_company,d,,,2006,,,,,,,,,,,,,,,,,US
+msa,Michael Stuhlbarg,actor,m,,,1968,,,,,,,,,,,,,,0,0,,US
+msd,Martin Scorsese,director,m,,,1942,,,,,,,,,,,,,,1,3,,US
+mspc,Marvel Studios,production_company,d,,,1993,,,,,,,,,,,,,,,,,US
+mta,Miles Teller,actor,m,,,1987,,,,,,,,,,,,,,0,0,,US
+mta1,Marisa Tomei,actor,f,,,1964,,,,,,,,,,,,,,1,,,US
+muenchen,Muenchen,movie,d,,17,2006,ssd1,ssp1,gjs,eba,cda,cha,jwc,uppc,dppc,,,ugdc,"0,131",0,0,drama,US
+mwa,Michael Wittenborn,actor,m,,,1953,,,,,,,,,,,,,,0,0,,EU
+mwp,Max Wiedemann,producer,m,,,1977,,,,,,,,,,,,,,1,1,,EU
+mypc,M.Y.R.A. Entertainment,production_company,d,,,2007,,,,,,,,,,,,,,,,,US
+mzpc,Mike Zoss Productions,production_company,d,,,1985,,,,,,,,,,,,,,,,,US
+nad,Niels Arden Oplev,director,m,,,1961,,,,,,,,,,,,,,0,0,,EU
+name,Call me by your name,movie,d,,8,2017,lgd,psp,jis,aha2,tca,msa,ssc,ffpc,lcpc,rtpc,mypc,spdc,"0,419",1,0,drama,EU
+nbc,Nicholas Britell,composer,m,,,1980,,,,,,,,,,,,,,0,0,,US
+nfdc,NFP,distribution_company,d,,,1956,,,,,,,,,,,,,,,,,EU
+nfpc,Nordisk Film,production_company,d,,,1906,,,,,,,,,,,,,,,,,EU
+ngp,Nicole Paradis Grindle,producer,f,,,1986,,,,,,,,,,,,,,0,0,,US
+npa,Noomi Rapace,actor,m,,,1979,,,,,,,,,,,,,,0,0,,EU
+ofpc,Original Film,production_company,d,,,1990,,,,,,,,,,,,,,,,,US
+orpc,OneRace Films,production_company,d,,,1995,,,,,,,,,,,,,,,,,US
+panther,Black Panther,movie,d,12,,2018,rcd,kfp,rcs,cba,mja,lna,lgc,mspc,,,,wddc,"1,348",3,,action,US
+pbpc,Plan B,production_company,d,,,2001,,,,,,,,,,,,,,,,,US
+pcpc,Paramount Classics,production_company,d,,,1998,,,,,,,,,,,,,,,,,US
+pdd,Pete Docter,director,m,,,1968,,,,,,,,,,,,,,3,0,,US
+pdp,Peter Del Vecho,producer,m,,,1966,,,,,,,,,,,,,,1,0,,US
+pds,Pete Docter,screenplay,m,,,1968,,,,,,,,,,,,,,1,2,,US
+poa,Patton Oswalt,actor,m,,,1969,,,,,,,,,,,,,,0,0,,US
+potter,Harry Potter and the Deathly Hallows – Part 2,movie,d,13,,2011,dyd,dhp1,sks,dra1,rga,ewa,adc,wbpc,hfpc,,,wbdc,"1,342",,,fantasy,EU
+ppc,Pixar animation studios,production_company,d,,,1953,,,,,,,,,,,,,,,,,US
+ppdc,Paramount Pictures,distribution_company,d,,,1912,,,,,,,,,,,,,,,,,US
+pppc,Paramount Pictures,production_company,d,,,1912,,,,,,,,,,,,,,,,,US
+pppc1,Protozoa Pictures,production_company,d,,,1997,,,,,,,,,,,,,,,,,US
+psa,Peter Simonischeck,actor,m,,,1946,,,,,,,,,,,,,,0,0,,EU
+psp,Peter Spears,producer,m,,,1965,,,,,,,,,,,,,,1,0,,US
+pvc,Patrick Veigel,composer,m,,,1976,,,,,,,,,,,,,,0,0,,EU
+pwa,Paul Walker,actor,m,,,1973,,,,,,,,,,,,,,0,0,,US
+pwpc,Perfect World Pictures,production_company,d,,,2008,,,,,,,,,,,,,,,,,A
+ratatouille,Ratatouille,movie,d,,9,2007,bbd,blp,bbs,bga,lra,poa,mgc,ppc,wdpc,,,bvdc,"0,623",1,1,comedy,US
+rcd,Ryan Coogler,director,m,,,1986,,,,,,,,,,,,,,,,,US
+rcs,Ryan Coogler,screenplay,m,,,1986,,,,,,,,,,,,,,,,,US
+rda,Robert Downey Jr.,actor,m,,,1965,,,,,,,,,,,,,,0,3,,US
+rga,Rupert Grint,actor,m,,,1988,,,,,,,,,,,,,,,,,EU
+rjd,Rian Johnson,director,m,,,1973,,,,,,,,,,,,,,,,,US
+rjs,Rian Johnson,screenplay,m,,,1973,,,,,,,,,,,,,,,,,US
+rka,Richard Kind,actor,f,,,1956,,,,,,,,,,,,,,0,0,,US
+rmpc,Relativity Media,production_company,d,,,2004,,,,,,,,,,,,,,,,,US
+rrpc,River Road Entertainment,production_company,d,,,1987,,,,,,,,,,,,,,,,,US
+rsa,Rafe Spall,actor,m,,,1983,,,,,,,,,,,,,,,,,EU
+rss,Robert Siegel,screenplay,m,,,1971,,,,,,,,,,,,,,,,,US
+rtpc,RT Features,production_company,d,,,2005,,,,,,,,,,,,,,,,,SA
+sba,Sandra Bullock,actor,f,,,1964,,,,,,,,,,,,,,1,1,,US
+sbd,Shane Black,director,m,,,1961,,,,,,,,,,,,,,0,0,,US
+sca1,Sacha Baron Cohen,actor,m,,,1971,,,,,,,,,,,,,,,2,,EU
+scpc,StudioCanal,production_company,d,,,1988,,,,,,,,,,,,,,,,,US
+scs,Stephen Chbosky,screenplay,m,,,1970,,,,,,,,,,,,,,0,0,,US
+sedc,Summit Entertainment,distribution_company,d,,,1991,,,,,,,,,,,,,,,,,US
+sha,Sandra Hüller,actor,f,,,1978,,,,,,,,,,,,,,0,0,,EU
+sja,Scarlett Johansson,actor,f,,,1984,,,,,,,,,,,,mra,,0,0,,US
+ska,Sebastian Koch,actor,m,,,1962,,,,,,,,,,,,,,0,0,,EU
+skp,Susan Kirr,producer,f,,,1942,,,,,,,,,,,,,,0,0,,US
+sks,Steve Kloves,screenplay,m,,,1960,,,,,,,,,,,,,,,,,US
+slp,Stan Lee,producer,m,,,1922,,,,,,,,,,,,,,0,0,,US
+sls,Stieg Larsson,screenplay,m,,,1954,,,,,,,,,,,,,,0,0,,EU
+smpc,Skydance Media,production_company,d,,,2010,,,,,,,,,,,,,,,,,US
+sms,Simon Moore,screenplay,m,,,1958,,,,,,,,,,,,,,,,,US
+social,The Social Network,movie,d,,18,2010,dfd,dbp,ass,jea,jta,aga,trc,cppc,srpc,tspc,rmpc,spdc,"0,225",3,4,drama,US
+spa,Sean Penn,actor,m,,,1960,,,,,,,,,,,,,,2,1,,US
+spc,Steven Price,composer,m,,,1977,,,,,,,,,,,,,,1,0,,EU
+spdc,Sony Pictures,distribution_company,d,,,1991,,,,,,,,,,,,,,,,,US
+sra,Seth Rogen,actor,m,,,1982,,,,,,,,,,,,,,0,0,,CA
+srp,Scott Rudin,producer,m,,,1958,,,,,,,,,,,,,,1,0,,US
+srpc,Scott Rudin Production,production_company,d,,,1980,,,,,,,,,,,,,,,,,US
+ssc,Sufjan Stevens,composer,m,,,1975,,,,,,,,,,,,,,0,0,,US
+ssd,Steven Soderbergh,director,m,,,1963,,,,,,,,,,,,,,,,,US
+ssd1,Steven Spielberg,director,m,,,1946,,,,,,,,,,,,,,3,2,,US
+ssp,Soren Staermose,producer,m,,,1952,,,,,,,,,,,,,,0,0,,EU
+ssp1,Steven Spielberg,producer,m,,,1946,,,,,,,,,,,,,,3,2,,US
+starwars,Star Wars: Das Erwachen der Macht,movie,d,3,,2015,jad,jap,gls,dra,jba,ada,jwc,wdpc,lfpc,brpc,,wddc,"2,066",0,0,science-fiction,US
+sva,Sarah Vowell,actor,f,,,1969,,,,,,,,,,,,,,0,0,,US
+swa,Sam Worthington,actor,m,,,1976,,,,,,,,,,,,,,0,0,,AU
+swa1,Sigourney Weaver,actor,f,,,1949,,,,,,,,,,,,,,0,0,,US
+swa2,Shailene Woodley,actor,f,,,1991,,,,,,,,,,,,,,,,,US
+tca,Timothée Chalamet,actor,m,,,1995,,,,,,,,,,,,,,0,0,,US
+tca2,Tom Cruise,actor,m,,,1962,,,,,,,,,,,,,,0,3,,US
+tja,Tommy Lee Jones,actor,m,,,1946,,,,,,,,,,,,,,1,1,,US
+tmd,Terrence Malick,director,m,,,1943,,,,,,,,,,,,,,0,0,,US
+tmpc,The Kennedy/Marshall Company,production_company,d,,,1992,,,,,,,,,,,,,,,,,US
+tms,Terrence Malick,screenplay,m,,,1943,,,,,,,,,,,,,,1,3,,US
+erdmann,Toni Erdmann,movie,d,,1,2016,mad,map,mas,sha,psa,mwa,pvc,kfpc1,copc,khpc,mfpc,nfdc,"0,118",0,0,comedy-drama,EU
+tppc,Tencent Pictures,production_company,d,,,2015,,,,,,,,,,,,,,,,,A
+tra,Trevante Rhodes,actor,m,,,1990,,,,,,,,,,,,,,0,0,,US
+traffic,Traffic: Die Macht des Kartells,movie,d,,4,2001,ssd,lbp,sms,mda,dca,bta,cmc,iepc,lbpc,bfpc,,ufdc,"0,42",4,0,drama,US
+trc,Trent Reznor,composer,m,,,1965,,,,,,,,,,,,,,2,1,,US
+tree,The Tree of Life,movie,d,,19,2011,tmd,skp,tms,bpa,jca,spa,adc,pbpc,rrpc,,,cfdc,"0,058",0,0,drama,US
+tspc,Trigger Street Productions,production_company,d,,,1997,,,,,,,,,,,,,,,,,US
+ufdc,USA Films Company,distribution_company,d,,,,,,,,,,,,,,,,,,,,US
+ugdc,Universal Pictures Germany,distribution_company,d,,,1981,,,,,,,,,,,,,,,,,EU
+uma,Ulrich Mühe,actor,m,,,1953,,,,,,,,,,,,,,0,0,,EU
+updc,Universal Pictures,distribution_company,d,,,1912,,,,,,,,,,,,,,,,,US
+uppc,Universal pictures,production_company,d,,,1912,,,,,,,,,,,,,,,,,US
+vda,Vin Diesel,actor,m,,,1977,,,,,,,,,,,,,,0,0,,US
+vdp,Vin Diesel,producer,m,,,1967,,,,,,,,,,,,,,0,0,,US
+verbl,Verblendung,movie,d,,3,2009,nad,ssp,sls,mna,npa,lea,jgc,nfpc,wbpc,,,wbdc,"0,104",,,thriller,US
+voa,Vincent D´Onofrio,actor,m,,,1959,,,,,,,,,,,,,,0,0,,US
+vppc,Voltage Pictures,production_company,d,,,2005,,,,,,,,,,,,,,,,,US
+wbdc,Warner Bros. Pictures,distribution_company,d,,,1923,,,,,,,,,,,,,,,,,US
+wbpc,Warner Bros. Pictures,production_company,d,,,1923,,,,,,,,,,,,,,,,,US
+wbpc1,Wild Bunch,production_company,d,,,1979,,,,,,,,,,,,,,,,,EU
+wbpc2,Wiedemann & Berg,production_company,d,,,2003,,,,,,,,,,,,,,,,,EU
+wddc,Walt Disney Studios Motion Pictures,distribution_company,d,,,1953,,,,,,,,,,,,,,,,,US
+wdpc,Walt Disney Studios Motion Pictures,production_company,d,,,1953,,,,,,,,,,,,,,,,,US
+wrestler,The Wrestler,movie,d,,13,2008,dad,dap,rss,mra,mta1,ewa1,cmc1,wbpc1,pppc1,,,fsdc,"0,044",,2,drama,US
+wtpc,Working Title Films,production_company,d,,,1984,,,,,,,,,,,,,,,,,US
+zps,Zak Penn,screenplay,m,,,1968,,,,,,,,,,,,,,0,0,,US
+zsa,Zoe Saldana,actor,f,,,1978,,,,,,,,,,,,,,0,0,,US
