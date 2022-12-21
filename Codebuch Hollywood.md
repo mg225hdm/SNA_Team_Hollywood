@@ -3,9 +3,9 @@ Sessen Araia, Manuela Gieger, Stefanie Lauterbach, Tamina Mack, Laura Merz
 
 # Inhalt
 
-1.Edge-Attribute
+1. Edge-Attribute
 
-2.Node-Attribute
+2. Node-Attribute
 
 # 1. Edge-Attribute
 
