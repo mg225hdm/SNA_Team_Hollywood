@@ -3,23 +3,19 @@ Sessen Araia, Manuela Gieger, Stefanie Lauterbach, Tamina Mack, Laura Merz
 
 # Inhalt
 
-1.Edgeslist.csv
+1.Edge-Attribute
 
-2.Nodelist.csv
+2.Node-Attribute
 
 # 1. Edge-Attribute
 
-id: Eindeutige Benennung nach Buchstabenkürzel aus Vor- und Nachnamen plus ein Kürzel nach der jeweiligen Akteur:innenfunktion. Bei Filmen erfolgt die Kennzeichnung durch ein
-eindeutiges Schlagwort. 
+id: Eindeutige Benennung nach Buchstabenkürzel aus Vor- und Nachnamen plus ein Kürzel nach der jeweiligen Akteur:innenfunktion. Bei Filmen erfolgt die Kennzeichnung durch ein eindeutiges Schlagwort. 
 
 from: Film, von dem die Verbindung ausgeht
 
 to: Akteur:innen, die an dem Film mitgewirkt haben
 
-weight: Rankingplatzierung aufgrund des Kritiker-Rankings
-beziehungsweise der Box Office Einnahmen 20 = beste Platzierung (erste
-Nennung in den Rankings), 1 = schlechteste Platzierung (letzte Nennung
-in den Rankings)
+weight: Rankingplatzierung aufgrund des Kritiker-Rankings beziehungsweise der Box Office Einnahmen 20 = beste Platzierung (erste Nennung in den Rankings), 1 = schlechteste Platzierung (letzte Nennung in den Rankings)
 
 country: Geburtsland/Land des Firmensitzes/Produktionsland
 
@@ -34,12 +30,9 @@ golden globe: Anzahl der gewonnen Globen Globes
 
 # 2. Node-Attribute
 
-id:Eindeutige Benennung nach Buchstabenkürzel aus Vor- und Nachnamen plus
-Kürzel nach der jeweiligen Akteur:innenfunktion. Bei Filmen erfolgt die Kennzeichnung durch ein
-eindeutiges Schlagwort. 
+id:Eindeutige Benennung nach Buchstabenkürzel aus Vor- und Nachnamen plus Kürzel nach der jeweiligen Akteur:innenfunktion. Bei Filmen erfolgt die Kennzeichnung durch ein eindeutiges Schlagwort. 
 
-name: Vor- und Nachname der Akteur:innen, Filmtitel, Name der Produktions-/ der
-Distributionsfirma. 
+name: Vor- und Nachname der Akteur:innen, Filmtitel, Name der Produktions-/ der Distributionsfirma. 
 
 type: d = Regisseur:in, p = Produzent:in, s = Drehbuchautor:in, a = Schauspieler:in, c = Komponist:in, pc = Produktionsfirma, dc = Vertriebsgesellschaft
 
@@ -65,12 +58,12 @@ production_company1 - production_company4: Produktionsfirma
 
 distribution_company: Vertriebsgesellschaft
 
-box_office: Box-Office-Einnahmen in Milliarden US-Dollar, auf drei
-Dezimalstellen nach dem Komma gerundet 
+box_office: Box-Office-Einnahmen in Milliarden US-Dollar, auf drei Dezimalstellen nach dem Komma gerundet 
 
 oscar: Anzahl gewonnener Academy Awards (Oscars)
 
 golden_globe: Anzahl gewonnener Golden Globes  
+
 Genre: Genre des Films
 
 year: Geburtsjahr/Veröffentlichungsjahr/Gründungsjahr
