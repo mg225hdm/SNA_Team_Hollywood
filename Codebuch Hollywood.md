@@ -1,8 +1,5 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
+# Codebuch Hollywood
+Sessen Araia, Manuela Gieger, Stefanie Lauterbach, Tamina Mack, Laura Merz
 
 # Inhalt
 
